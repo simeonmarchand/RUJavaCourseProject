@@ -4,7 +4,7 @@ You are working as a software developer for a large insurance company. Your comp
 
 ### Your Java program should perform the following things:
 
-1. [ ] Take the input from the user about the patient name, weight, birthdate, and height.
+1. [X] Take the input from the user about the patient name, weight, birthdate, and height.
 2. [ ] Calculate Body Mass Index.
 3. [ ] Display person name and BMI Category.
 4. [ ] If the BMI Score is less than 18.5, then underweight.
