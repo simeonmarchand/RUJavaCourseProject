@@ -5,12 +5,12 @@ You are working as a software developer for a large insurance company. Your comp
 ### Your Java program should perform the following things:
 
 1. [X] Take the input from the user about the patient name, weight, birthdate, and height.
-2. [ ] Calculate Body Mass Index.
-3. [ ] Display person name and BMI Category.
-4. [ ] If the BMI Score is less than 18.5, then underweight.
-5. [ ] If the BMI Score is between 18.5-24.9, then Normal.
-6. [ ] If the BMI score is between 25 to 29.9, then Overweight.
-7. [ ] If the BMI score is greater than 29.9, then Obesity.
+2. [x] Calculate Body Mass Index.
+3. [x] Display person name and BMI Category.
+4. [x] If the BMI Score is less than 18.5, then underweight.
+5. [x] If the BMI Score is between 18.5-24.9, then Normal.
+6. [x] If the BMI score is between 25 to 29.9, then Overweight.
+7. [x] If the BMI score is greater than 29.9, then Obesity.
 8. [ ] Calculate Insurance Payment Category based on BMI Category.
 9. [ ] If underweight, then insurance payment category is low.
 10. [ ] If Normal weight, then insurance payment category is low.
